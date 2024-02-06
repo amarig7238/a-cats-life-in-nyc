@@ -1,4 +1,4 @@
-You are a house cat and wake up to a new day and you are feeling a little exploratious.
+You are a house cat and wake up to a new day and you are feeling a little explorative.
 
 ---
 
