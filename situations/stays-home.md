@@ -1,0 +1,3 @@
+You decided to noy go out and go to sleep in the comfort of your own home because of how dangerous the outside wrold can really be.
+
+Click [here](../home.md) to restart.
