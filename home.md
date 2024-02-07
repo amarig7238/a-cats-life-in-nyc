@@ -1,12 +1,11 @@
-You are a house cat and wake up to a new day and you are feeling a little explorative.
+# A Cats Life In Nyc
+## Home
 
----
+You're a house cat and you wake up in your bed to a brand new day, do you...
 
-<br>
-Do you want to go outside and be dangerous and daring.
-</br>
+[Go out and Explore NYC](a-cats-life-in-nyc/Explore-NYC.md)
+
 Or
-<br>
-Stay in the house where it is safe.
-</br>
+
+[Stay Home and Go Back to Sleep](../home.md)
 
