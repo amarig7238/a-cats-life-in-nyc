@@ -7,5 +7,5 @@ You're a house cat and you wake up in your bed to a brand new day, do you...
 
 Or
 
-[Stay Home and Go Back to Sleep](../home.md)
+[Stay Home and Go Back to Sleep](a-cats-life-in-nyc/stays-home.md)
 
