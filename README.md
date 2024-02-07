@@ -1,12 +1,5 @@
-# A Cats Life In Nyc
-## Home
+The purpose of creating this repository was to display a cats potential journey in the big city of NYC.
 
-You're a house cat and you wake up in your bed to a brand new day, do you...
+Click [here](home.md) to begin.
 
-[Go out and Explore NYC](a-cats-life-in-nyc/Explore-NYC.md)
-
-Or
-
-[Stay Home and Go Back to Sleep](../home.md)
-##
-
+Click [here](https://docs.google.com/drawings/d/1OLkxnd0gXgnB-4jqvhp5dGs6l8cO_b84o1tp4AeDRK0/edit) to see the diagram of this CYOA!
