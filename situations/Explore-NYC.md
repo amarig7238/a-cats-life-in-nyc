@@ -4,4 +4,4 @@ You walk into a train station and you see that there are 2 trains running. One t
 
 Or
 
-[Take the train to Downtown Brooklyn](a-cats-life-in-nyc/get-on-train-to-downtown-Brooklyn.md)
+[Take the train to Downtown Brooklyn](situations/get-on-train-to-downtown-Brooklyn.md)
