@@ -1,6 +1,6 @@
 You walk around and explore and you end up in a train station, do you want to...
 
-[Take the train to Bay Ridge](get-on-train-to-Bayridge.md)
+[Take the train to Bay Ridge](get-on-train-to-bayridge.md)
 
 Or
 
