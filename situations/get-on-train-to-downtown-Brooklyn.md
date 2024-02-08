@@ -7,4 +7,4 @@ Do you...
 
 Or
 
-[Enter Shake Shack](a-cats-life-in-nyc/Get-on-train-to-Bayridge)
+[Enter Shake Shack](a-cats-life-in-nyc/walk-into-Shake-Shack.md)
