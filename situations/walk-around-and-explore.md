@@ -6,4 +6,4 @@ Do you...
 
 Or
 
-[Choose peace and make friends with the squirrel](you-choose-peace-and-become-friends-with-the-squirrel.md)
+[Choose peace and make friends with the squirrel](choose-peace-squirrel.md)
