@@ -1,8 +1,7 @@
-You walk into a train station and you see that there are 2 trains running. One to Downtown Brooklyn and one to Bay Ridge, do you...
-
-[Take the train to Bay Ridge](situations/Get-on-train-to-bayridge.md)
+You walk around and explore and you end up in a train station, do you want to...
+[Take the train to Bay Ridge](get-on-train-to-Bayridge.md)
 
 Or
 
-[Take the train to Downtown Brooklyn](situations/get-on-train-to-downtown-Brooklyn.md)
+[Take the train to Downtown Brooklyn](get-on-train-to-downtown-Brooklyn.md)
 
