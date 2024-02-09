@@ -2,4 +2,4 @@ The purpose of creating this repository was to display a cats potential journey 
 
 Click [here](home.md) to begin.
 
-Click [here](CYOA-Diagram.png) to see the diagram of this CYOA!
+Click [here](cyoa-diagram.png) to see the diagram of this CYOA!
